@@ -6,4 +6,5 @@ cat
 cow
 lion
 
-tiger
+
+bird chicken
