@@ -1,6 +1,3 @@
 Supansa Sooksomkit
 
 cat
-
-
-dog
